@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/ftyxt/linux/IMX6ULL/linux/linux_myboard/include", 
+                "/home/ftyxt/linux/IMX6ULL/linux/linux_myboard/arch/arm/include", 
+                "/home/ftyxt/linux/IMX6ULL/linux/linux_myboard/arch/arm/include/generated/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

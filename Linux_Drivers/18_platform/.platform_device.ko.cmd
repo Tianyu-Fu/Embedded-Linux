@@ -1,0 +1,1 @@
+cmd_/home/ftyxt/linux/IMX6ULL/Linux_Drivers/18_platform/platform_device.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ftyxt/linux/IMX6ULL/Linux_Drivers/18_platform/platform_device.ko /home/ftyxt/linux/IMX6ULL/Linux_Drivers/18_platform/platform_device.o /home/ftyxt/linux/IMX6ULL/Linux_Drivers/18_platform/platform_device.mod.o

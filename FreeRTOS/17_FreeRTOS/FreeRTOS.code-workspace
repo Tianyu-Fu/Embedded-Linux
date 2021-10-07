@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"memory.h": "c",
+			"string.h": "c",
+			"stdlib.h": "c",
+			"freertos.h": "c",
+			"task.h": "c",
+			"timers.h": "c",
+			"stackmacros.h": "c"
+		}
+	}
+}

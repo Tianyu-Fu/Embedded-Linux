@@ -1,0 +1,1 @@
+cmd_/home/ftyxt/linux/IMX6ULL/Linux_Drivers/25_ramdisk_request/ramdisk.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ftyxt/linux/IMX6ULL/Linux_Drivers/25_ramdisk_request/ramdisk.ko /home/ftyxt/linux/IMX6ULL/Linux_Drivers/25_ramdisk_request/ramdisk.o /home/ftyxt/linux/IMX6ULL/Linux_Drivers/25_ramdisk_request/ramdisk.mod.o

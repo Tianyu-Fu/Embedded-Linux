@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/driver/clk",
+                "${workspaceFolder}/driver/delay",
+                "${workspaceFolder}/driver/led",
+                "${workspaceFolder}/driver/beep",
+                "${workspaceFolder}/imx6u",
+                "${workspaceFolder}/project"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/local/arm/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf/4.9.4",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/driver/clk",
+                "${workspaceFolder}/driver/delay",
+                "${workspaceFolder}/driver/led",
+                "${workspaceFolder}/driver/beep",
+                "${workspaceFolder}/driver/key",
+                "${workspaceFolder}/driver/epit",
+                "${workspaceFolder}/driver/int",
+                "${workspaceFolder}/driver/exti",
+                "${workspaceFolder}/driver/gpio",
+                "${workspaceFolder}/driver/uart",
+                "${workspaceFolder}/driver/lcd",
+                "${workspaceFolder}/driver/rtc",
+                "${workspaceFolder}/driver/keyfilter",
+                "${workspaceFolder}/driver/fpu",
+                "${workspaceFolder}/freertos/include",
+                "${workspaceFolder}/freertos/port",
+                "${workspaceFolder}/imx6u",
+                "${workspaceFolder}/std/include",
+                "${workspaceFolder}/project"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/local/arm/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-arm"
+        }
+    ],
+    "version": 4
+}

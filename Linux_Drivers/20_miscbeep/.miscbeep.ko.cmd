@@ -1,0 +1,1 @@
+cmd_/home/ftyxt/linux/IMX6ULL/Linux_Drivers/20_miscbeep/miscbeep.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ftyxt/linux/IMX6ULL/Linux_Drivers/20_miscbeep/miscbeep.ko /home/ftyxt/linux/IMX6ULL/Linux_Drivers/20_miscbeep/miscbeep.o /home/ftyxt/linux/IMX6ULL/Linux_Drivers/20_miscbeep/miscbeep.mod.o

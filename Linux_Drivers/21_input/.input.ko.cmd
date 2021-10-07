@@ -1,0 +1,1 @@
+cmd_/home/ftyxt/linux/IMX6ULL/Linux_Drivers/21_input/input.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ftyxt/linux/IMX6ULL/Linux_Drivers/21_input/input.ko /home/ftyxt/linux/IMX6ULL/Linux_Drivers/21_input/input.o /home/ftyxt/linux/IMX6ULL/Linux_Drivers/21_input/input.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/ftyxt/linux/IMX6ULL/Linux_Drivers/8_atomic/atomic.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ftyxt/linux/IMX6ULL/Linux_Drivers/8_atomic/atomic.ko /home/ftyxt/linux/IMX6ULL/Linux_Drivers/8_atomic/atomic.o /home/ftyxt/linux/IMX6ULL/Linux_Drivers/8_atomic/atomic.mod.o
